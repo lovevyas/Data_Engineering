@@ -1,6 +1,5 @@
 def calculate(units):
     cost = 0
-    penalty = 0
     if(units<=100):
         cost = units*3
     elif(units<=200):        
